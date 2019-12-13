@@ -1,0 +1,26 @@
+{
+  "name": "express-daily-planet",
+  "version": "1.0.0",
+  "description": "lab express-daily-planet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shannonzylstra/express-daily-planet.git"
+  },
+  "author": "Shannon Zylstra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shannonzylstra/express-daily-planet/issues"
+  },
+  "homepage": "https://github.com/shannonzylstra/express-daily-planet#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "pg": "^7.14.0"
+  }
+}
